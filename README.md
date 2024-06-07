@@ -1,13 +1,19 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">Sobre min<br><br>Olá! Eu sou estudante de Engenharia de Software, atualmente cursando o ensino superior e tenho 22 anos. Minha primeira interação profissional foi na área de dados, onde descobri minha paixão por este campo dinâmico e em constante evolução.
+
+Durante meu estágio como Cloud Data Engineer, tive a oportunidade de liderar uma squad composta por quatro pessoas. Trabalhamos em ciclos de sprints de duas semanas, o que me proporcionou uma experiência valiosa em metodologias ágeis e em liderança de equipe.
+
+Além disso, obtive a certificação AWS Cloud Practitioner, o que fortaleceu meus conhecimentos em soluções de cloud computing. Minha meta é me especializar cada vez mais e alcançar a certificação de Data Engineer.
+
+Estou em busca de novas oportunidades de estágio na área de dados, onde eu possa continuar aprendendo, contribuindo com minhas habilidades e crescendo profissionalmente.
+
+Sinta-se à vontade para explorar meus repositórios e projetos. Por mais que meu repositório não tenha muita coisa no momento, em breve haverá muito mais. Estou sempre aberto a novos desafios e oportunidades de colaboração!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Lusscaa&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Lusscaa&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
